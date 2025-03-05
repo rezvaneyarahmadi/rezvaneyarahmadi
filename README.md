@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rezvane Yarahmadi</h1>
-<h3 align="center">A backend developer from Iran</h3>
+<h1 align="center">Hi, I'm Rezvane Yarahmadi</h1>
 <p>
   <a href="https://github.com/rezvaneyarahmadi"><img src="https://img.shields.io/github/followers/aliteymouri.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/rezvane-yarahmadi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
-
 
 - 🔭 I’m currently working on [laboratory](www.labsmartbavale.ir)
 
@@ -26,7 +24,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezvaneyarahmadi&show_icons=true&locale=en&layout=compact" alt="rezvaneyarahmadi" /></p>
+<p><img style="background:red;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezvaneyarahmadi&show_icons=true&locale=en&layout=compact" alt="rezvaneyarahmadi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezvaneyarahmadi&show_icons=true&locale=en" alt="rezvaneyarahmadi" /></p>
 
