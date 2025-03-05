@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rezvane Yarahmadi</h1>
 <h3 align="center">A backend developer from Iran</h3>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezvaneyarahmadi&" alt="rezvaneyarahmadi" /></p>
-
 - 🔭 I’m currently working on [laboratory](www.labsmartbavale.ir)
 
 - 🌱 I’m currently learning **django**
