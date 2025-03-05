@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rezvane Yarahmadi</h1>
 <h3 align="center">A backend developer from Iran</h3>
+<p>
+  <a href="https://github.com/aliteymouri"><img src="https://img.shields.io/github/followers/aliteymouri.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/Aliteymourii"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezvaneyarahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="rezvaneyarahmadi" /> </p>
 
