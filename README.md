@@ -24,10 +24,8 @@
 <table cellpadding="0">
   <tr style="border-top: none; padding: 0;">
     <td valign="top" style="border: none; padding: 0">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezvaneyarahmadi&show_icons=true&locale=en&layout=compact" alt="rezvaneyarahmadi" />
-    </td>
-</td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rezvaneyarahmadi&show_icons=true&locale=en" alt="rezvaneyarahmadi"">
+      <img src="https://github-readme-stats.vercel.app/api?username=rezvaneyarahmadi&show_icons=true&count_private=true&theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezvaneyarahmadii&layout=compact&theme=algolia&card_width=445">
     </td>
    
   </tr>
