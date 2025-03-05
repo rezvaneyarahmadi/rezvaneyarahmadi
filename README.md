@@ -24,11 +24,12 @@
 <table cellpadding="0">
   <tr style="border-top: none; padding: 0;">
     <td valign="top" style="border: none; padding: 0">
-      <img " align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezvaneyarahmadi&show_icons=true&locale=en&layout=compact" alt="rezvaneyarahmadi" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezvaneyarahmadi&show_icons=true&locale=en" alt="rezvaneyarahmadi" />
+     
       <img src="https://github-readme-stats.vercel.app/api?username=rezvaneyarahmadi&show_icons=true&count_private=true&theme=algolia">
       </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezvaneyarahmadi&show_icons=true&locale=en" alt="rezvaneyarahmadi" />
+       <img " align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezvaneyarahmadi&show_icons=true&locale=en&layout=compact" alt="rezvaneyarahmadi" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezvaneyarahmadi&layout=compact&theme=algolia&card_width=445">
       </td>
     
